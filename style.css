@@ -20,6 +20,10 @@ color: #666584;
 }
 
 /* Fejléc */
+#heder{
+	margin-bottom: 10px;
+}
+
 #header img {
 	display: block;
 }
@@ -27,7 +31,7 @@ color: #666584;
 
 /* Navigációs sáv */
 #nav {
-
+	margin-bottom: 10px;
 }
 
 #nav ul {
@@ -54,12 +58,12 @@ color: #666584;
 
 /* Tartalom */
 #content {
-
+	margin-bottom: 10px;
 }
 
 /*Lábléc  */
 #footer {
-
+	margin-bottom: 10px;
 }
 
 /* További stílusok */
