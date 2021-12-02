@@ -59,6 +59,10 @@ color: #666584;
 	background-color: #B1B7DF;
 }
 
+nav a.active{
+	background-color: white;
+}
+
 /* Tartalom */
 #content {
 	margin-bottom: 10px;
