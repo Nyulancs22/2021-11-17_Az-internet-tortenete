@@ -47,6 +47,7 @@ color: #666584;
 
 #nav a {
 	display: block;
+	width: 150px;
 	text-decoration: none;
 	padding: 0.5em 0;
 	font-weight: bold;
