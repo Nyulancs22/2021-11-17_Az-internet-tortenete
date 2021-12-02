@@ -15,7 +15,7 @@ color: #666584;
 #container {
 	width: 600px;
 	margin: auto;
-	background-color: >#5c6b7b;
+	background-color: #5c6b7b;
 	padding: 0 20px 0 20px;
 }
 
@@ -51,10 +51,12 @@ color: #666584;
 	text-decoration: none;
 	padding: 0.5em 0;
 	font-weight: bold;
+	text-align:center;
+	background-color: #CDDBEB;
 }
 
 #nav a:hover {
-
+	background-color: #B1B7DF;
 }
 
 /* Tartalom */
