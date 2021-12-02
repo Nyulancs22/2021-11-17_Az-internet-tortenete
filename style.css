@@ -59,13 +59,11 @@ color: #666584;
 	background-color: #B1B7DF;
 }
 
-nav a.active{
-	background-color: white;
-}
-
 /* Tartalom */
 #content {
 	margin-bottom: 10px;
+	padding: 10px;
+	background-color: white;
 }
 
 /*Lábléc  */
@@ -83,5 +81,5 @@ nav a.active{
 }
 
 .active {
-
+	background-color: white;
 }
